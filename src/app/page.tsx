@@ -23,7 +23,7 @@ const Page: React.FC = () => {
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Creating sustainable, clean, and modern websites that reflect the beauty of nature and technology combined.
             </p>
-            <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1400&q=80" alt="Nature green workspace" className="rounded-2xl shadow-2xl mx-auto w-72 max-w-2xl"/>
+            <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1400&q=80" alt="Nature green workspace" className="rounded-2xl shadow-2xl mx-auto w-72 max-w-4xl"/>
             
             {/* Features */}
             <div className="grid md:grid-cols-3 gap-6 mt-12">
